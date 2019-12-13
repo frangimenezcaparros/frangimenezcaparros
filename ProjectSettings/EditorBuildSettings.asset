@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GimenezFranUD3_Principal - TOUCH.unity
+    guid: 161ca5a75c78bc14fad88080ccaece8e
+  - enabled: 0
+    path: Assets/Scenes/Terrain.unity
+    guid: ef6d738d2812c7149886554e2f5a9076
+  - enabled: 1
+    path: Assets/Scenes/Escena_AR.unity
+    guid: e07976efbdb99614c82d61ee6bb46e1a
   m_configObjects: {}
